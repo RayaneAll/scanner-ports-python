@@ -8,7 +8,7 @@ Nous prenons la sécurité de ce projet au sérieux. Si vous découvrez une vuln
 
 **Ne créez PAS d'issue publique** pour les problèmes de sécurité.
 
-Au lieu de cela, envoyez un email à : `security@example.com` (remplacez par votre email)
+Au lieu de cela, envoyez un email à : `rayane.allaoui03@gmail.com` (remplacez par votre email)
 
 ### 📋 Informations à inclure
 
@@ -94,7 +94,7 @@ Vous êtes autorisé à tester :
 ## 📞 Contact
 
 Pour toute question concernant la sécurité :
-- **Email** : `security@example.com`
+- **Email** : `rayane.allaoui03@gmail.com`
 - **Temps de réponse** : 24-48 heures
 
 ## 📚 Ressources
@@ -105,5 +105,5 @@ Pour toute question concernant la sécurité :
 
 ---
 
-**Dernière mise à jour** : 2024  
+**Dernière mise à jour** : 2025  
 **Version** : 1.0
