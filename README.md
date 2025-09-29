@@ -99,7 +99,7 @@ scanner-ports-python/
 
 ## Auteur
 
-Développé par Cursor - 2024
+Développé par Rayane Allaoui - 2025
 
 ## Licence
 
