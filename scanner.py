@@ -3,8 +3,8 @@
 Scanner de ports TCP minimal
 ============================
 
-Auteur: Cursor
-Date: 2024
+Auteur: Rayane Allaoui
+Date: 2025
 Licence: MIT
 
 AVERTISSEMENT LÉGAL:
